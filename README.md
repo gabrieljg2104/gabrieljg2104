@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gabrieljg2104
 - 👀 I’m interested in learn more and be a good programmer
-- 🌱 I’m currently learning HTML, CSS and JavaScript
+- 🌱 I’m currently learning Java
 - 📫 How to reach me gabrieljg2104@gmail.com
 
 <!---
